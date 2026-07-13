@@ -2,7 +2,7 @@
 # API specs are backend API integration tests that use iOS simulator but don't require mobile app UI.
 
 name: API Specs E2E Tests
-
+tab
 on:
   workflow_call:
     inputs:
